@@ -10,6 +10,7 @@
   • Lessons Learned & Documentation
   Understand limitations: no real “intelligence” for unexpected questions, lacking true conversational context.
   This phase is foundational for subsequent ML-driven improvements.
+  
 **Phase 2 – Machine Learning Chatbots**
   • Intent Classification & Response Generation
   Transition from static rules to trained models that understand user goals more flexibly.
@@ -20,6 +21,7 @@
   • Key Takeaways
   Balancing precision vs. recall in chatbot responses.
   Early glimpses into dynamic conversation handling based on user context.
+  
 **Phase 3 – Hybrid & Framework Integration**
   • Combining Rule-Based & ML Approaches
   Use a rule-based fallback for mission-critical questions alongside advanced NLP for open-ended queries.
@@ -30,6 +32,7 @@
   • Highlights
   Improved handling of edge cases and domain-specific queries.
   Scalability: modular approaches let you switch or upgrade core ML components without rewriting the entire logic.
+  
 **Phase 4 – RAG + LLMs**
   • Introduction to Retrieval-Augmented Generation (RAG)
   Build upon large language models (LLMs) by pairing them with a vector database for context retrieval.
@@ -43,6 +46,7 @@
   • Success Stories & Limitations
   Summarize best practices for combining retrieval with generation for robust, factual chatbots.
   Future considerations, like domain adaptation and multi-modal integrations.
+  
 **Future Plans**
   • Advanced Personalization & User Profiling
   Explore user embeddings for personalized chat experiences.
